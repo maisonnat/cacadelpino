@@ -17,6 +17,7 @@ env/
 # Logs and databases
 *.log
 *.sqlite
+credenciales.txt
 
 # Playwright
 playwright-report/
